@@ -1,0 +1,6 @@
+Instructions--------------------------------------------------------------
+The Space key makes the time of day change, the cloud color, and the snow to rain.
+
+The L key Turns on the lights in the house
+
+The arrow keys move the bunny around the screen.
